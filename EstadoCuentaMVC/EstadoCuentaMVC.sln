@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstadoCuentaMVC", "EstadoCuentaMVC.csproj", "{ADECF6F4-A210-4B40-B933-6FE6043A15E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADECF6F4-A210-4B40-B933-6FE6043A15E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADECF6F4-A210-4B40-B933-6FE6043A15E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADECF6F4-A210-4B40-B933-6FE6043A15E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADECF6F4-A210-4B40-B933-6FE6043A15E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D5EE83C-B786-4AE7-8EC0-E8B19614AF93}
+	EndGlobalSection
+EndGlobal
